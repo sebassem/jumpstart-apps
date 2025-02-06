@@ -18,7 +18,7 @@ spec:
     spec:
       chart: ./agora/pos_cloud_sync/operations/charts
   values:
-    acr_name: __acrName__
+    acr_name: agacr67266
     branch_name: "dev"
     image_tag: v1.0
     github_User: __githubUser__

@@ -18,7 +18,7 @@ spec:
     spec:
       chart: ./agora/store_queue_monitoring_frontend/operations/charts
   values:
-    acr_name: _acrName__
+    acr_name: agacrd77e3
     branch_name: "staging"
     image_tag: v1.0
     github_User: __githubUser__
